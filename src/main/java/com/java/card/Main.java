@@ -37,6 +37,7 @@ public class Main {
 //        System.out.println(user.straight());
 //        System.out.println(user.flush());
         System.out.println(user.pair(3));
+        System.out.println(user.pair(4));
     }
 
 }
